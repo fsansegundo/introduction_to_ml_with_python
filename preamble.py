@@ -22,3 +22,4 @@ pd.set_option("display.max_columns", 8)
 pd.set_option('display.precision', 2)
 
 __all__ = ['np', 'mglearn', 'display', 'plt', 'pd']
+
